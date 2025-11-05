@@ -1,33 +1,21 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/k1marii_?igsh=ZGo0c3g2bmt1aXZp&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="kimarii.mbuguaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<p align="left">My name is Kimari</p>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h2 align="left">About me</h2>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">•	🏫 I’m currently pursuing a Bachelor’s in Electrical and Electronics Engineering<br>	•	⚙ I’m passionate about automation, embedded systems, and intelligent power solutions<br>	•	📚 I’m currently learning Python, MATLAB, and C++ for control systems, simulation, and data analysis<br>	•	💡 I love working on microcontroller projects (Arduino & IoT) and exploring how software meets hardware<br>	•	⚡ In my free time, I enjoy learning new Tech tools</p>
 
 ###
 
-<p align="left">I’m Kimari Mbugua from Kenya 🇰🇪<br>	•	🏫 I’m currently pursuing a Bachelor’s in Electrical and Electronics Engineering<br>	•	⚙ I’m passionate about automation, embedded systems, and intelligent power solutions<br>	•	📚 I’m currently learning Python, MATLAB, and C++ for control systems, simulation, and data analysis<br>	•	💡 I love working on microcontroller projects (Arduino & IoT) and exploring how software meets hardware<br>	•	⚡ In my free time, I enjoy learning new tech tools</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -44,13 +32,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
